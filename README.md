@@ -10,4 +10,4 @@ This Python application utilizes a insight face library to swap faces in images.
 - Face swapping algorithm that seamlessly integrates faces from different images.
 
 ## Installation
-1.Download inswapper_128.onnx from https://drive.google.com/file/d/1krOLgjW2tAPaqV-Bw4YALz0xT5zlb5HF/view?usp=sharing.
+Download inswapper_128.onnx from https://drive.google.com/file/d/1krOLgjW2tAPaqV-Bw4YALz0xT5zlb5HF/view?usp=sharing.
