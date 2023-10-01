@@ -2,7 +2,7 @@
 
 ## Description
 
-This Python application utilizes a insight face library to swap faces in images. It detects facial features and replaces them with faces from other images, creating a fun and entertaining visual effect.
+This Python application utilizes insight face library to swap faces in images. It detects facial features and replaces them with faces from other images, creating a fun and entertaining visual effect.
 
 ## Features
 
